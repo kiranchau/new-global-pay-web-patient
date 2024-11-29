@@ -1,0 +1,206 @@
+@import "../../init";
+
+@mixin button-box-shadow {
+    box-shadow: -4px 2px 16px 0px rgba(84, 130, 53, 0.22);
+    -webkit-box-shadow: -4px 2px 16px 0px rgba(84, 130, 53, 0.22);
+    -moz-box-shadow: -4px 2px 16px 0px rgba(84, 130, 53, 0.22);
+}
+
+@mixin card-shadow {
+    box-shadow: 2px 2px 9px 0px rgba(0, 0, 0, 0.26);
+    -webkit-box-shadow: 2px 2px 9px 0px rgba(0, 0, 0, 0.26);
+    -moz-box-shadow: 2px 2px 9px 0px rgba(0, 0, 0, 0.26);
+}
+
+.alert-text {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+
+.login-btn {
+    width: 100%;
+    padding: 10px;
+    background-color: $primary-color;
+    border-radius: 6px;
+    color: #fff;
+    @include button-box-shadow;
+}
+
+.fv-help-block {
+    color: red;
+    font-size: 12px;
+}
+.help-text{
+    font-size: 14px;
+    color: #A0A0A0;
+    margin-bottom: 18px;
+}
+.forgot-pass {
+    .cancel-btn {
+        border-color: $primary-color;
+        color: $primary-color;
+        padding: 8px;
+        font-size: 14px;
+        &:focus{
+            outline: none;
+            box-shadow: none;
+        }
+
+    }
+}
+
+.login-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+    .inner-login-wrapper {
+        @include card-shadow;
+        margin: 0 50px;
+        .show-password{
+            position: relative;
+            .eye-icon{
+                position: absolute;
+                top: 10px;
+                right: 10px;
+                width: 20px;
+                cursor: pointer;
+            }
+        }
+        .login-form {
+            display: flex;
+
+            .login-btn {
+                width: 100%;
+                padding: 10px;
+                background-color: $primary-color;
+                border-radius: 6px;
+                color: #fff;
+                @include button-box-shadow;
+
+                &:hover {
+                    opacity: 0.8!important;;
+
+                }
+
+            }
+
+            .left-section,
+            .right-section {
+                flex: 1;
+            }
+
+            .left-section {
+                padding: 30px 50px 20px 50px;
+                .alert-text{
+                    color: grey;
+                    text-align: left;
+                }
+                .color-red{
+                    color: red;
+                    text-align:center;
+                }
+                .login-bottom-logo {
+                    width: 100px;
+                    margin-top: 30px;
+                }
+            }
+
+            .right-section {
+                img {
+                    height: 100%;
+                }
+
+                .carousel-inner {
+                    height: 100%;
+
+                    .carousel-item {
+                        height: 100%;
+                    }
+                }
+
+                .carousel {
+                    height: 100%;
+                }
+
+                .carousel .carousel-indicators li {
+                    width: 10px;
+                    height: 10px;
+                    margin-left: 15px;
+                    border-radius: 100%;
+                }
+            }
+        }
+    }
+}
+
+.inner-forgot-wrapper .left-section {
+    padding: 50px;
+
+}
+
+.footer {
+    background-color:$primary-color;
+    padding: 10px 5px;
+
+}
+
+.footer a {
+    color: #fff;
+}
+
+.footer p {
+    text-align: center;
+    margin-bottom: 0;
+    color: #fff;
+    font-size: 13px;
+
+}
+
+.cancel-btn {
+    width: 100%;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid $secondary-color;
+    border-radius: 6px;
+    color: $secondary-color;
+    margin-top: 15px;
+    @include button-box-shadow;
+}
+
+.form-control {
+    padding: 1.375rem .75rem !important;
+}
+
+.form-group label {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.forgot-text {
+    color: $secondary-color;
+    margin-top: 12px;
+    display: inline-block;
+    font-size: 14px;
+}
+
+
+form input {
+    border-color: #DBDBDB !important;
+    border-radius: 8px !important;
+}
+
+form input::placeholder {
+    font-size: 14px;
+}
+
+/* Forgot css */
+.sub-text {
+    color: #A0A0A0;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 15px;
+
+}

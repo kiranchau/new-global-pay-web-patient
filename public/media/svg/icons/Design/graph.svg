@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="484.26" height="227.346" viewBox="0 0 484.26 227.346">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fafcfa"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#eff6f0"/>
+      <stop offset="1" stop-color="#fefefe"/>
+    </linearGradient>
+    <filter id="Ellipse_38" x="277.98" y="48" width="52" height="52" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_39" x="280.98" y="51" width="46" height="46" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_40" x="284.98" y="55" width="38" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_361" data-name="Group 361" transform="translate(-342.02 -462)">
+    <path id="Path_2075" data-name="Path 2075" d="M410,636l416-28v80s-313.667-.667-432,0c-14.318.081-39-5.693-48-5.333-9.593.383,1.341,10.188,0,5.333-3.5-12.667,0-41.333,0-41.333h6.667l18-10.667Z" fill="url(#linear-gradient)"/>
+    <text id="Mon" transform="translate(365 664)" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Mon</tspan></text>
+    <text id="_200" data-name="200" transform="translate(631 479)" fill="#80c247" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">200</tspan></text>
+    <text id="Products" transform="translate(619 499)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Products</tspan></text>
+    <path id="Path_2074" data-name="Path 2074" d="M338.667,651.552s14.621,13.886,40.382-59.931c7.548-21.629,14.621-26.311,32.027-10.232s29.242,67.971,71.016,6.578,61.965,39.467,100.258,10.963,34.986-58.835,60.05-55.912,47.866,123.152,81.982,59.566,38.989-47.507,50.129-32.889,19.843,44.949,44.907,45.679" transform="translate(6.833 -7.821)" fill="url(#linear-gradient-2)"/>
+    <path id="Path_2073" data-name="Path 2073" d="M338.667,651.552s14.621,13.886,40.382-59.931c7.548-21.629,14.621-26.311,32.027-10.232s29.242,67.971,71.016,6.578,61.965,39.467,100.258,10.963,34.986-58.835,60.05-55.912,47.866,123.152,81.982,59.566,38.989-47.507,50.129-32.889,19.843,44.949,44.907,45.679" transform="translate(6.833 -7.821)" fill="none" stroke="#80c247" stroke-width="2"/>
+    <g id="Group_187" data-name="Group 187" transform="translate(0 27)">
+      <g transform="matrix(1, 0, 0, 1, 342.02, 435)" filter="url(#Ellipse_38)">
+        <g id="Ellipse_38-2" data-name="Ellipse 38" transform="translate(292.98 62)" fill="#fff" stroke="rgba(112,112,112,0.18)" stroke-width="1" opacity="0.9">
+          <circle cx="11" cy="11" r="11" stroke="none"/>
+          <circle cx="11" cy="11" r="10.5" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 342.02, 435)" filter="url(#Ellipse_39)">
+        <g id="Ellipse_39-2" data-name="Ellipse 39" transform="translate(295.98 65)" fill="#fff" stroke="rgba(112,112,112,0.17)" stroke-width="1" opacity="0.9">
+          <circle cx="8" cy="8" r="8" stroke="none"/>
+          <circle cx="8" cy="8" r="7.5" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 342.02, 435)" filter="url(#Ellipse_40)">
+        <circle id="Ellipse_40-2" data-name="Ellipse 40" cx="4" cy="4" r="4" transform="translate(299.98 69)" fill="#80c247" opacity="0.9"/>
+      </g>
+    </g>
+    <text id="Tue" transform="translate(436 664)" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Tue</tspan></text>
+    <text id="Wed" transform="translate(500 664)" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Wed</tspan></text>
+    <text id="Thu" transform="translate(571 664)" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Thu</tspan></text>
+    <text id="Fri" transform="translate(644 664)" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Fri</tspan></text>
+    <text id="Sat" transform="translate(709 664)" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Sat</tspan></text>
+    <text id="Sun" transform="translate(775 664)" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Sun</tspan></text>
+  </g>
+</svg>

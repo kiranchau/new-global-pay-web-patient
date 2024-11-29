@@ -1,0 +1,9 @@
+<svg id="_103796_view_icon" data-name="103796_view_icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="background">
+    <rect id="Rectangle_42" data-name="Rectangle 42" width="32" height="32" fill="none"/>
+  </g>
+  <g id="view">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="6" cy="6" r="6" transform="translate(10 10)" fill="#fff"/>
+    <path id="Path_166" data-name="Path 166" d="M16,6C6,6,0,15.938,0,15.938S6,26,16,26,32,16,32,16,26,6,16,6Zm0,18C7.25,24,2.5,16,2.5,16S7.25,8,16,8s13.5,8,13.5,8S24.75,24,16,24Z" fill="#fff"/>
+  </g>
+</svg>

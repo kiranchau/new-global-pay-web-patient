@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34" height="34" viewBox="0 0 34 34">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_28" data-name="Rectangle 28" width="20" height="17" transform="translate(44.7 709.081)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="signout" transform="translate(-491 -133)">
+    <rect id="Rectangle_286" data-name="Rectangle 286" width="34" height="34" transform="translate(491 133)" fill="none"/>
+    <g id="logout" transform="translate(453.3 -567.081)" clip-path="url(#clip-path)">
+      <g id="log-out" transform="translate(46.779 709.66)">
+        <path id="Path_9" data-name="Path 9" d="M8.819,19.38H5.3a1.76,1.76,0,0,1-1.76-1.76V5.3A1.76,1.76,0,0,1,5.3,3.538h3.52" transform="translate(-3.538 -3.538)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.769"/>
+        <path id="Path_10" data-name="Path 10" d="M18.872,17.057l4.4-4.4-4.4-4.4" transform="translate(-7.431 -4.736)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.769"/>
+        <line id="Line_2" data-name="Line 2" x1="10.561" transform="translate(5.28 7.921)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.769"/>
+      </g>
+    </g>
+  </g>
+</svg>

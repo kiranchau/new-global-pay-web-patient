@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "AVGMK7K5B2.com.dyna-globalpay-app",
+                "paths": [ "*" ]
+            },
+            {
+                "appID": "AVGMK7K5B2.com.dyna-globalpay-app",
+                "paths": [ "/auth/new-password-set", "/auth/email-verified","/auth/password-reset", "/newRequest" ]
+            }
+        ]
+    }
+}

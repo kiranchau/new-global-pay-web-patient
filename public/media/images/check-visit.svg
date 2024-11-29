@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="27" viewBox="0 0 28 27">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_276" data-name="Rectangle 276" width="28" height="27" transform="translate(147.206 166.133)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="check-visit" transform="translate(-147.206 -166.133)" clip-path="url(#clip-path)">
+    <g id="check-svgrepo-com_1_" data-name="check-svgrepo-com (1)" transform="translate(150.36 168.786)">
+      <path id="Path_652" data-name="Path 652" d="M10.847,0A10.847,10.847,0,1,1,0,10.847,10.847,10.847,0,0,1,10.847,0Z" fill="#5cc9ff"/>
+      <path id="Path_653" data-name="Path 653" d="M10.5,0V21.695A10.847,10.847,0,0,0,10.5,0Z" transform="translate(0.347)" fill="#20aff5"/>
+      <path id="Path_654" data-name="Path 654" d="M9.15,15.381l-4.7-4.7L6.1,9.041,9.15,12.094,14.914,6.33l1.644,1.644Z" transform="translate(0.147 0.209)" fill="#f2f2f4"/>
+      <path id="Path_655" data-name="Path 655" d="M10.5,13.831l5.858-5.858L14.714,6.33,10.5,10.544Z" transform="translate(0.347 0.209)" fill="#dfdfe1"/>
+    </g>
+  </g>
+</svg>

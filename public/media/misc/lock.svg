@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <g id="lock" transform="translate(-489 -176)">
+    <rect id="Rectangle_290" data-name="Rectangle 290" width="34" height="34" transform="translate(489 176)" fill="#fff"/>
+    <g id="password-svgrepo-com" transform="translate(499 182)">
+      <path id="Path_588" data-name="Path 588" d="M17.86,7.8h-.352V5.232a5.232,5.232,0,0,0-10.465,0V7.8H6.691A1.866,1.866,0,0,0,4.826,9.666v10.1a1.866,1.866,0,0,0,1.864,1.864H17.86a1.866,1.866,0,0,0,1.864-1.864V9.666A1.866,1.866,0,0,0,17.86,7.8ZM8.641,5.232a3.635,3.635,0,0,1,7.269,0V7.8H8.641Zm9.486,14.539a.27.27,0,0,1-.266.266H6.691a.27.27,0,0,1-.266-.266V9.666A.27.27,0,0,1,6.691,9.4H17.86a.27.27,0,0,1,.266.266Z" transform="translate(-4.826)"/>
+      <path id="Path_589" data-name="Path 589" d="M15.154,17.753a.8.8,0,0,0-.8.8v3.059a.8.8,0,0,0,1.6,0V18.552A.8.8,0,0,0,15.154,17.753Z" transform="translate(-7.705 -5.363)"/>
+    </g>
+  </g>
+</svg>

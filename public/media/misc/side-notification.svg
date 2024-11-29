@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_56" data-name="Ellipse 56" cx="22" cy="22" r="22" transform="translate(0 -0.4)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="side-notification" transform="translate(0 0.4)" clip-path="url(#clip-path)">
+    <g id="notification-svgrepo-com" transform="translate(10.448 8.824)">
+      <path id="Path_579" data-name="Path 579" d="M27.291,0A1.681,1.681,0,0,0,25.61,1.681V7.829h3.362V1.681A1.681,1.681,0,0,0,27.291,0Z" transform="translate(-16.062)" fill="#dfc136"/>
+      <path id="Path_580" data-name="Path 580" d="M37.934,13.783,39.372,24.71H37.131L36.023,13.783c-.414-4.087-3.091-7.249-6.345-7.3A8.407,8.407,0,0,1,37.934,13.783Z" transform="translate(-18.372 -3.682)" fill="#fedc3d"/>
+      <path id="Path_581" data-name="Path 581" d="M28.948,2.918a.42.42,0,0,0-.42.42V5.019h.841V3.338A.42.42,0,0,0,28.948,2.918Z" transform="translate(-17.719 -1.657)" fill="#bfa52e"/>
+      <path id="Path_582" data-name="Path 582" d="M23.082,13.782,24.19,24.709H6.889L8.327,13.782a8.407,8.407,0,0,1,8.333-7.3h.077C19.991,6.533,22.668,9.695,23.082,13.782Z" transform="translate(-5.431 -3.682)" fill="#ffe777"/>
+      <path id="Path_583" data-name="Path 583" d="M49.386,44.736H47.7L49.386,48.1h1.681V46.417A1.686,1.686,0,0,0,49.386,44.736Z" transform="translate(-28.608 -25.404)" fill="#bfa52e"/>
+      <path id="Path_584" data-name="Path 584" d="M31.075,48.626l-1.428,4.482a5.6,5.6,0,0,0,4.791-2.8Z" transform="translate(-18.354 -27.613)" fill="#fedc3d"/>
+      <path id="Path_585" data-name="Path 585" d="M18.268,49.571l4.013-2.241,4.013,2.241c-.623,1.649-1.78,2.767-3.109,2.8h-.063A5.6,5.6,0,0,1,18.268,49.571Z" transform="translate(-11.893 -26.876)" fill="#ffe777"/>
+      <path id="Path_586" data-name="Path 586" d="M24.292,46.417V48.1H3.515V46.417A1.686,1.686,0,0,1,5.2,44.736H22.611A1.686,1.686,0,0,1,24.292,46.417Z" transform="translate(-3.515 -25.404)" fill="#dfc136"/>
+      <g id="Group_300" data-name="Group 300" transform="translate(5.838 8.56)">
+        <circle id="Ellipse_57" data-name="Ellipse 57" cx="0.42" cy="0.42" r="0.42" transform="translate(7.7)" fill="#fedc3d"/>
+        <circle id="Ellipse_58" data-name="Ellipse 58" cx="0.42" cy="0.42" r="0.42" transform="translate(9.942 1.121)" fill="#fedc3d"/>
+        <circle id="Ellipse_59" data-name="Ellipse 59" cx="0.42" cy="0.42" r="0.42" transform="translate(0 6.724)" fill="#fedc3d"/>
+      </g>
+    </g>
+  </g>
+</svg>

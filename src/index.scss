@@ -1,0 +1,19 @@
+// 3rd-party Plugins
+@import "~highlight.js/styles/googlecode.css";
+@import "~perfect-scrollbar/css/perfect-scrollbar.css";
+
+// Default Layout themes
+@import "./_common/_assets/sass/pages/dashboard/dashboard.scss";
+@import "./_common/_assets/sass/pages/accomplishment/accomplishment.scss";
+@import "./_common/_assets/sass/pages/commongrid/commongrid.scss";
+@import "./_common/_assets/sass/pages/my-profile/my-profile.scss";
+@import "./_common/_assets/sass/pages/login/login.scss";
+@import "./_common/_assets/sass/pages/travel-preferences/travel-preferences.scss";
+@import "./_common/_assets/plugins/icons/font/font.css";
+@import "./_common/_assets/sass/pages/topbar-header/topbar-header.scss";
+@import "./_common/_assets/sass/pages/settings/settings.scss";
+@import "./_common/_assets/sass/pages/password-reset/password-reset.scss";
+@import "./node_modules/slick-carousel/slick/slick-theme.scss";
+@import "./node_modules/slick-carousel/slick/slick.scss"
+
+
